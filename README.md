@@ -44,7 +44,7 @@ There will be many employees retiring in a couple of years.  The Pewlett-Hackard
 
 ​		The Query and the generated table is to identify the current employees born in 1995 who will be eligible for the mentorship program, as shown below:
 
-![image-20220724131131073](data/image-20220724131131073.png)
+![image-20220724131131073](Data/image-20220724131131073.png)
 
 
 
@@ -58,7 +58,7 @@ There will be many employees retiring in a couple of years.  The Pewlett-Hackard
 
   The total roles that will need to be filled is 72458, unevenly distributed among 7 titles, as shown below.
 
-![image-20220724130407405](data/image-20220724130407405.png)
+![image-20220724130407405](Data/image-20220724130407405.png)
 
 
 
@@ -66,4 +66,4 @@ There will be many employees retiring in a couple of years.  The Pewlett-Hackard
 
   The number of the employees who are eligible to mentorship program is 1549, distributed among each titles, as shown bellow.  In a summary, there are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
-![image-20220724133922468](data/image-20220724133922468.png)
+![image-20220724133922468](Data/image-20220724133922468.png)
