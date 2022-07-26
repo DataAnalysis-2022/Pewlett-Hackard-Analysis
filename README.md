@@ -16,7 +16,7 @@ There will be many employees retiring in a couple of years.  The Pewlett-Hackard
 
 ​		This Query and the generated table is to find the employees born between 1952 and 1955 with titles, as shown below:
 
-![image-20220724125339740](data/image-20220724125339740.png)
+![image-20220724125339740](./data/image-20220724125339740.png)
 
 
 
