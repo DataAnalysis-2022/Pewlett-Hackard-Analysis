@@ -16,7 +16,7 @@ There will be many employees retiring in a couple of years.  The Pewlett-Hackard
 
 ​		This Query and the generated table is to find the employees born between 1952 and 1955 with titles, as shown below:
 
-![image-20220724125339740](./data/image-20220724125339740.png)
+![image-20220724125339740](Data/image-20220724125339740.png)
 
 
 
@@ -24,7 +24,7 @@ There will be many employees retiring in a couple of years.  The Pewlett-Hackard
 
 ​		This Query and the generated table is to find the latest unique titles of the current employees, as shown below:
 
-![image-20220724125823647](data/image-20220724125823647.png)
+![image-20220724125823647](Data/image-20220724125823647.png)
 
 
 
@@ -32,7 +32,7 @@ There will be many employees retiring in a couple of years.  The Pewlett-Hackard
 
 ​		This Query and the generated table is to find number of retiring employees with each titles, as shown below:
 
-![image-20220724130407405](data/image-20220724130407405.png)
+![image-20220724130407405](Data/image-20220724130407405.png)
 
 
 
